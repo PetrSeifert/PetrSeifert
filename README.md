@@ -17,7 +17,7 @@ I'm a passionate developer specializing in **C++**, **C#**, and **Rust**. I work
 
 ## Networks
 
-- Website: [peterrock.site](https://peterrock.site)
+- Website: [peterrock.site](https://peterrock.dev)
 - Discord: [PeterRock](https://discord.com/users/333647996162146304)
 
 ## GitHub Stats
