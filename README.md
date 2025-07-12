@@ -24,6 +24,8 @@ I'm a passionate developer specializing in **C++**, **C#**, and **Rust**. I work
 
 ![Spotify Now Playing](https://peterrock.dev/api/spotify/svg/3137pjdifc6dxkr7hny6se6av3my??)
 
+![Spotify This Month's Top Artists](https://peterrock.dev/api/spotify/top-artists-svg/3137pjdifc6dxkr7hny6se6av3my??)
+
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=PetrSeifert&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)](https://git.io/streak-stats)
