@@ -22,7 +22,7 @@ I'm a passionate developer specializing in **C++**, **C#**, and **Rust**. I work
 
 ## Spotify
 
-![Spotify Now Playing](https://peterrock.dev/api/spotify/svg/spotify:user:3137pjdifc6dxkr7hny6se6av3my?)
+![Spotify Now Playing](https://peterrock.dev/api/spotify/svg/spotify:user:3137pjdifc6dxkr7hny6se6av3my??)
 
 ## GitHub Stats
 
