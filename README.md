@@ -9,7 +9,7 @@ I'm a passionate developer specializing in **C++**, **C#**, and **Rust**. I work
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </div>
 
-## Areas of Expertise
+## Areas of Interest
 
 - Game Development
 - Reverse Engineering
